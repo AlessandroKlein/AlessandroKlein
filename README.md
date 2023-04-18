@@ -78,3 +78,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroKlein&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroKlein&show_icons=true&theme=gruvbox)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlessandroKlein&repo=Impresora-3D)](https://github.com/AlessandroKlein/Impresora-3D)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlessandroKlein&repo=Invernadero)](https://github.com/AlessandroKlein/Invernadero)
